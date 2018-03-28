@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_new</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4.0.-Read-only" transform="translate(-1309.000000, -89.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="content" transform="translate(15.000000, 63.000000)">
+                <g id="menu" transform="translate(1194.000000, 26.000000)">
+                    <g id="Group-2" transform="translate(100.000000, 0.000000)">
+                        <g id="icon_new">
+                            <path d="M10,0 C4.48617769,0 0,4.48617769 0,10 C0,15.5138223 4.48617769,20 10,20 C15.5138223,20 20,15.5138223 20,10 C20,4.48617769 15.5138223,0 10,0 Z M10,1.53846154 C14.6814908,1.53846154 18.4615385,5.31851 18.4615385,10 C18.4615385,14.6814908 14.6814908,18.4615385 10,18.4615385 C5.31851,18.4615385 1.53846154,14.6814908 1.53846154,10 C1.53846154,5.31851 5.31851,1.53846154 10,1.53846154 Z M9.23076923,5.38461538 L9.23076923,9.23076923 L5.38461538,9.23076923 L5.38461538,10.7692308 L9.23076923,10.7692308 L9.23076923,14.6153846 L10.7692308,14.6153846 L10.7692308,10.7692308 L14.6153846,10.7692308 L14.6153846,9.23076923 L10.7692308,9.23076923 L10.7692308,5.38461538 L9.23076923,5.38461538 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
